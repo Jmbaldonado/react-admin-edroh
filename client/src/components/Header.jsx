@@ -11,6 +11,7 @@ const Header = ({ title, subtitle }) => {
         color={theme.palette.secondary[300]}
         fontWeight="bold"
         sx={{ mb: "5px" }}
+        textTransform="uppercase"
       >
         {title}
       </Typography>
