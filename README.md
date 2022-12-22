@@ -1,6 +1,6 @@
 ## React Admin By EdRoh
 
-## This React Admin application is based on youtube tutorial of EdRoh [Build a MERN React Admin Dashboard | Redux Toolkit Query, Backend Focus, Deployment, Data Modeling](https://www.youtube.com/watch?v=0cPCMIuDk2I&t=5134s)
+This React Admin application is based on youtube tutorial of EdRoh [Build a MERN React Admin Dashboard | Redux Toolkit Query, Backend Focus, Deployment, Data Modeling](https://www.youtube.com/watch?v=0cPCMIuDk2I&t=5134s)
 
 ## 📝 Description
 
