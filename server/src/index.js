@@ -15,11 +15,13 @@ import User from "../data/models/User.js";
 import Product from "../data/models/Product.js";
 import ProductStat from "../data/models/ProductStat.js";
 import Transaction from "../data/models/Transaction.js";
+import OverallStat from "../data/models/OverallStat.js";
 import {
   dataUser,
   dataProduct,
   dataProductStat,
   dataTransaction,
+  dataOverallStat,
 } from "../data/index.js";
 // Configuration
 dotenv.config();
@@ -55,5 +57,6 @@ mongoose
     // Product.insertMany(dataProduct);
     // ProductStat.insertMany(dataProductStat);
     // Transaction.insertMany(dataTransaction);
+    // OverallStat.insertMany(dataOverallStat);
   })
   .catch((err) => console.log(err));
